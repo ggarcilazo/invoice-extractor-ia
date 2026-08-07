@@ -1,0 +1,636 @@
+[
+  {
+    "serie_correlativo": "F001-00000001",
+    "ruc_proveedor": "20489765432",
+    "razon_social_proveedor": "CABLES Y CONDUCTORES INDUSTRIALES EIRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-08-02",
+    "subtotal": 1864.0,
+    "igv": 335.52,
+    "total": 2199.52,
+    "items": [
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 10,
+        "precio_unitario": 145.0,
+        "importe": 1450.0
+      },
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 4,
+        "precio_unitario": 78.9,
+        "importe": 315.6
+      },
+      {
+        "descripcion": "Varilla de acero corrugado 1/2\"",
+        "unidad": "UND",
+        "cantidad": 3,
+        "precio_unitario": 32.8,
+        "importe": 98.4
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000002",
+    "ruc_proveedor": "20501234567",
+    "razon_social_proveedor": "ACEROS Y METALES DEL NORTE SAC",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-07-17",
+    "subtotal": 7972.0,
+    "igv": 1434.96,
+    "total": 9406.96,
+    "items": [
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 4,
+        "precio_unitario": 28.5,
+        "importe": 114.0
+      },
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 5,
+        "precio_unitario": 850.0,
+        "importe": 4250.0
+      },
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 14,
+        "precio_unitario": 145.0,
+        "importe": 2030.0
+      },
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 20,
+        "precio_unitario": 78.9,
+        "importe": 1578.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000003",
+    "ruc_proveedor": "20489765432",
+    "razon_social_proveedor": "CABLES Y CONDUCTORES INDUSTRIALES EIRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-07-01",
+    "subtotal": 10619.0,
+    "igv": 1911.42,
+    "total": 12530.42,
+    "items": [
+      {
+        "descripcion": "Plancha de acero corrugado 3mm",
+        "unidad": "UND",
+        "cantidad": 8,
+        "precio_unitario": 320.5,
+        "importe": 2564.0
+      },
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 9,
+        "precio_unitario": 850.0,
+        "importe": 7650.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 9,
+        "precio_unitario": 45.0,
+        "importe": 405.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000004",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-08-02",
+    "subtotal": 2490.0,
+    "igv": 448.2,
+    "total": 2938.2,
+    "items": [
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 15,
+        "precio_unitario": 145.0,
+        "importe": 2175.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 7,
+        "precio_unitario": 45.0,
+        "importe": 315.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000005",
+    "ruc_proveedor": "20512398761",
+    "razon_social_proveedor": "MAQUINARIAS PESADAS DEL SUR SA",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-07-17",
+    "subtotal": 12428.0,
+    "igv": 2237.04,
+    "total": 14665.04,
+    "items": [
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 20,
+        "precio_unitario": 78.9,
+        "importe": 1578.0
+      },
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 4,
+        "precio_unitario": 145.0,
+        "importe": 580.0
+      },
+      {
+        "descripcion": "Soldadora inverter 200A",
+        "unidad": "UND",
+        "cantidad": 8,
+        "precio_unitario": 1250.0,
+        "importe": 10000.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 6,
+        "precio_unitario": 45.0,
+        "importe": 270.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000006",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-06-23",
+    "subtotal": 11344.0,
+    "igv": 2041.92,
+    "total": 13385.92,
+    "items": [
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 11,
+        "precio_unitario": 145.0,
+        "importe": 1595.0
+      },
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 11,
+        "precio_unitario": 850.0,
+        "importe": 9350.0
+      },
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 14,
+        "precio_unitario": 28.5,
+        "importe": 399.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000007",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-07-03",
+    "subtotal": 18485.0,
+    "igv": 3327.3,
+    "total": 21812.3,
+    "items": [
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 20,
+        "precio_unitario": 850.0,
+        "importe": 17000.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 4,
+        "precio_unitario": 45.0,
+        "importe": 180.0
+      },
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 9,
+        "precio_unitario": 145.0,
+        "importe": 1305.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000008",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-06-08",
+    "subtotal": 3148.6,
+    "igv": 566.75,
+    "total": 3715.35,
+    "items": [
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 8,
+        "precio_unitario": 78.9,
+        "importe": 631.2
+      },
+      {
+        "descripcion": "Varilla de acero corrugado 1/2\"",
+        "unidad": "UND",
+        "cantidad": 8,
+        "precio_unitario": 32.8,
+        "importe": 262.4
+      },
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 14,
+        "precio_unitario": 145.0,
+        "importe": 2030.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 5,
+        "precio_unitario": 45.0,
+        "importe": 225.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000009",
+    "ruc_proveedor": "20501234567",
+    "razon_social_proveedor": "ACEROS Y METALES DEL NORTE SAC",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-08-07",
+    "subtotal": 6173.0,
+    "igv": 1111.14,
+    "total": 7284.14,
+    "items": [
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 5,
+        "precio_unitario": 850.0,
+        "importe": 4250.0
+      },
+      {
+        "descripcion": "Plancha de acero corrugado 3mm",
+        "unidad": "UND",
+        "cantidad": 6,
+        "precio_unitario": 320.5,
+        "importe": 1923.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000010",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-07-21",
+    "subtotal": 17751.9,
+    "igv": 3195.34,
+    "total": 20947.24,
+    "items": [
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 2,
+        "precio_unitario": 145.0,
+        "importe": 290.0
+      },
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 7,
+        "precio_unitario": 28.5,
+        "importe": 199.5
+      },
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 20,
+        "precio_unitario": 850.0,
+        "importe": 17000.0
+      },
+      {
+        "descripcion": "Varilla de acero corrugado 1/2\"",
+        "unidad": "UND",
+        "cantidad": 8,
+        "precio_unitario": 32.8,
+        "importe": 262.4
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000011",
+    "ruc_proveedor": "20512398761",
+    "razon_social_proveedor": "MAQUINARIAS PESADAS DEL SUR SA",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-08-02",
+    "subtotal": 2280.0,
+    "igv": 410.4,
+    "total": 2690.4,
+    "items": [
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 2,
+        "precio_unitario": 850.0,
+        "importe": 1700.0
+      },
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 4,
+        "precio_unitario": 145.0,
+        "importe": 580.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000012",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-06-30",
+    "subtotal": 31217.7,
+    "igv": 5619.19,
+    "total": 36836.89,
+    "items": [
+      {
+        "descripcion": "Soldadora inverter 200A",
+        "unidad": "UND",
+        "cantidad": 13,
+        "precio_unitario": 1250.0,
+        "importe": 16250.0
+      },
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 13,
+        "precio_unitario": 78.9,
+        "importe": 1025.7
+      },
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 12,
+        "precio_unitario": 28.5,
+        "importe": 342.0
+      },
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 16,
+        "precio_unitario": 850.0,
+        "importe": 13600.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000013",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-06-24",
+    "subtotal": 3530.0,
+    "igv": 635.4,
+    "total": 4165.4,
+    "items": [
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 20,
+        "precio_unitario": 145.0,
+        "importe": 2900.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 14,
+        "precio_unitario": 45.0,
+        "importe": 630.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000014",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-08-07",
+    "subtotal": 23142.0,
+    "igv": 4165.56,
+    "total": 27307.56,
+    "items": [
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 9,
+        "precio_unitario": 850.0,
+        "importe": 7650.0
+      },
+      {
+        "descripcion": "Soldadora inverter 200A",
+        "unidad": "UND",
+        "cantidad": 12,
+        "precio_unitario": 1250.0,
+        "importe": 15000.0
+      },
+      {
+        "descripcion": "Varilla de acero corrugado 1/2\"",
+        "unidad": "UND",
+        "cantidad": 15,
+        "precio_unitario": 32.8,
+        "importe": 492.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000015",
+    "ruc_proveedor": "20498761234",
+    "razon_social_proveedor": "SUMINISTROS ELECTRICOS ANDINOS SRL",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-07-26",
+    "subtotal": 14929.099999999999,
+    "igv": 2687.24,
+    "total": 17616.34,
+    "items": [
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 15,
+        "precio_unitario": 850.0,
+        "importe": 12750.0
+      },
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 17,
+        "precio_unitario": 78.9,
+        "importe": 1341.3
+      },
+      {
+        "descripcion": "Plancha de acero corrugado 3mm",
+        "unidad": "UND",
+        "cantidad": 2,
+        "precio_unitario": 320.5,
+        "importe": 641.0
+      },
+      {
+        "descripcion": "Varilla de acero corrugado 1/2\"",
+        "unidad": "UND",
+        "cantidad": 6,
+        "precio_unitario": 32.8,
+        "importe": 196.8
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000016",
+    "ruc_proveedor": "20512398761",
+    "razon_social_proveedor": "MAQUINARIAS PESADAS DEL SUR SA",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-07-18",
+    "subtotal": 1724.7,
+    "igv": 310.45,
+    "total": 2035.15,
+    "items": [
+      {
+        "descripcion": "Guantes dieléctricos clase 2",
+        "unidad": "PAR",
+        "cantidad": 17,
+        "precio_unitario": 78.9,
+        "importe": 1341.3
+      },
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 10,
+        "precio_unitario": 28.5,
+        "importe": 285.0
+      },
+      {
+        "descripcion": "Varilla de acero corrugado 1/2\"",
+        "unidad": "UND",
+        "cantidad": 3,
+        "precio_unitario": 32.8,
+        "importe": 98.4
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000017",
+    "ruc_proveedor": "20489765432",
+    "razon_social_proveedor": "CABLES Y CONDUCTORES INDUSTRIALES EIRL",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-06-15",
+    "subtotal": 17899.0,
+    "igv": 3221.82,
+    "total": 21120.82,
+    "items": [
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 14,
+        "precio_unitario": 28.5,
+        "importe": 399.0
+      },
+      {
+        "descripcion": "Soldadora inverter 200A",
+        "unidad": "UND",
+        "cantidad": 14,
+        "precio_unitario": 1250.0,
+        "importe": 17500.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000018",
+    "ruc_proveedor": "20489765432",
+    "razon_social_proveedor": "CABLES Y CONDUCTORES INDUSTRIALES EIRL",
+    "ruc_cliente": "20603214569",
+    "fecha_emision": "2026-07-25",
+    "subtotal": 5635.0,
+    "igv": 1014.3,
+    "total": 6649.3,
+    "items": [
+      {
+        "descripcion": "Soldadora inverter 200A",
+        "unidad": "UND",
+        "cantidad": 3,
+        "precio_unitario": 1250.0,
+        "importe": 3750.0
+      },
+      {
+        "descripcion": "Tubería PVC industrial 6\"",
+        "unidad": "UND",
+        "cantidad": 13,
+        "precio_unitario": 145.0,
+        "importe": 1885.0
+      }
+    ]
+  },
+  {
+    "serie_correlativo": "F001-00000019",
+    "ruc_proveedor": "20501234567",
+    "razon_social_proveedor": "ACEROS Y METALES DEL NORTE SAC",
+    "ruc_cliente": "20609874321",
+    "fecha_emision": "2026-06-19",
+    "subtotal": 14772.5,
+    "igv": 2659.05,
+    "total": 17431.55,
+    "items": [
+      {
+        "descripcion": "Cemento portland tipo I (bolsa 42.5kg)",
+        "unidad": "BOL",
+        "cantidad": 15,
+        "precio_unitario": 28.5,
+        "importe": 427.5
+      },
+      {
+        "descripcion": "Cable THW 4mm x 100m",
+        "unidad": "UND",
+        "cantidad": 13,
+        "precio_unitario": 850.0,
+        "importe": 11050.0
+      },
+      {
+        "descripcion": "Casco de seguridad certificado",
+        "unidad": "UND",
+        "cantidad": 2,
+        "precio_unitario": 45.0,
+        "importe": 90.0
+      },
+      {
+        "descripcion": "Plancha de acero corrugado 3mm",
+        "unidad": "UND",
+        "cantidad": 10,
+        "precio_unitario": 320.5,
+        "importe": 3205.0
+      }
+    ]
+  }
+]
